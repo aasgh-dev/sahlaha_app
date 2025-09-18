@@ -2,6 +2,10 @@
 
 A Flutter application that helps university students easily calculate their semester GPA and cumulative GPA.
 
+📱 Download the app from Google Play:
+[Download Sahlaha](https://play.google.com/store/apps/details?id=com.aasgh.sahlaha&pcampaignid=web_share)
+
+
 ## ✨ Features
 - Add courses with course name, grade, and credit hours.
 - Automatically calculate **semester GPA** and **cumulative GPA**.

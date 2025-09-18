@@ -17,18 +17,28 @@ A Flutter application that helps university students easily calculate their seme
 
 ## 🖼️ Screenshots
 
+![1447-03-26 18 09 27](https://github.com/user-attachments/assets/7cf671c9-fe6a-412c-af31-84ef2beca0a7)
+
+![1447-03-26 18 10 45](https://github.com/user-attachments/assets/d79f3429-7160-49d6-8285-67c93c2427de)
+
+![1447-03-26 18 09 30](https://github.com/user-attachments/assets/5d82a704-42d3-4813-b869-8df6ba1ccd22)
+
+![1447-03-26 18 09 18](https://github.com/user-attachments/assets/ee40a171-d81c-4928-93e1-f42e34ee972b)
+
+![1447-03-26 18 09 24](https://github.com/user-attachments/assets/859dee12-63d7-44d4-a75a-09a0c482d07b)
+
+![1447-03-26 18 09 07](https://github.com/user-attachments/assets/dab6c56d-d5d8-404f-b31e-60df2343e1ef)
+
+![1447-03-26 18 09 33](https://github.com/user-attachments/assets/2e326f0c-928f-4524-b260-d04fea8d8a08)
+
+![1447-03-26 18 09 15](https://github.com/user-attachments/assets/504e578e-9866-4168-bdd0-9fc79ee6a829)
+
+![1447-03-26 18 08 56](https://github.com/user-attachments/assets/aa491615-46cd-4e67-8035-e502e3a22090)
+
+![1447-03-26 18 09 22](https://github.com/user-attachments/assets/3b5f01f2-a622-41b0-946f-5f51d83418b4)
+
+![1447-03-26 18 09 11](https://github.com/user-attachments/assets/49d06574-622d-4262-a595-772aabde6ad4)
 
 
 
-![1447-03-26 18 09 27](https://github.com/user-attachments/assets/ba438d16-1be2-4ac4-bc6e-2031b6a4b4f9)
-![1447-03-26 18 10 45](https://github.com/user-attachments/assets/fba59182-207b-432a-b88f-59e3f8406afc)
-![1447-03-26 18 09 30](https://github.com/user-attachments/assets/299af943-a67b-4f5c-8d8b-4231a7715532)
-![1447-03-26 18 09 24](https://github.com/user-attachments/assets/ae32ebad-0c80-4506-a666-f028db179501)
-![1447-03-26 18 09 18](https://github.com/user-attachments/assets/5215f84b-52b7-46a0-ada1-70a85036f867)
-![1447-03-26 18 09 33](https://github.com/user-attachments/assets/ca8f0630-ed57-4b58-9d66-a7723f07a2fc)
-![1447-03-26 18 ![1447-03-26 18 09 15](https://github.com/user-attachments/assets/6dbec672-4dd5-40ab-8b17-afd72437cb10)
-09 24](https://github.com/user-attachments/assets/6f9e7b79-d643-40c5-b2f3-b50931a8b189)
-![1447-03-26 18 09 07](https://github.com/user-attachments/assets/bb32ee38-9559-4b01-9234-29f83f8ba2c3)
-![1447![1447-03-26 18 09 11](https://github.com/user-attachments/assets/efb9a3ad-9767-4748-a2bb-733aa065b8fd)
--03-26 18 08 56](https://github.com/user-attachments/assets/a7cf80a4-5db7-4472-b7c6-3f37d760a8d6)
-![1447-03-26 18 09 22](https://github.com/user-attachments/assets/d99f4dbc-b015-4685-b0ae-f04b62de8b4c)
+

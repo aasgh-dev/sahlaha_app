@@ -5,6 +5,8 @@ A Flutter application that helps university students easily calculate their seme
 📱 Download the app from Google Play:
 [Download Sahlaha](https://play.google.com/store/apps/details?id=com.aasgh.sahlaha&pcampaignid=web_share)
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ## ✨ Features
 - Add courses with course name, grade, and credit hours.
